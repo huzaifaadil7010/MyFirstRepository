@@ -1,1 +1,2 @@
 Hello! welcome to my first git file .
+یہ میری پہلی گٹ کی فائل ہے۔
